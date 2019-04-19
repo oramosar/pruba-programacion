@@ -1,2 +1,2 @@
-# pruba-programacion
-primera
+# prueba-programacion
+primera prueba
